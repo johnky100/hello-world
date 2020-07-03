@@ -7,7 +7,7 @@ chunk_output_type: console
 
 ## Data Science
 
-It is a set of tools that uses scientific processes, algorithms, methods, and techniques to obtain important information from raw data.
+
 Data scientists must have technical skills in mathematics and statistics; Computer science (programming and machine learning) and business knowledge, must analyze and develop systems that are capable of helping the business, it is also important to have emotional intelligence skills, communication skills and ease of adapting to changes.
 
 1. We load the data
